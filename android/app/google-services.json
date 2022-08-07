@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709050162507",
+    "project_id": "reactnative-phoneotpauth",
+    "storage_bucket": "reactnative-phoneotpauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709050162507:android:59eeeee04567a90fe49cce",
+        "android_client_info": {
+          "package_name": "com.phoneotpauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709050162507-3siua8d57novgdmngrfefsvob1snvii6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phoneotpauth",
+            "certificate_hash": "0aaa0b5a2dcd186dfc7c9124d17ceb1496d80c41"
+          }
+        },
+        {
+          "client_id": "709050162507-o95l2e5fg6tljs6adm23dr21k9s44kj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phoneotpauth",
+            "certificate_hash": "f2c4d0c0ad928ed2e7df448c58f87897e2bc967d"
+          }
+        },
+        {
+          "client_id": "709050162507-vit02511gtjj4d8v1ds3p6mll941nakg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_EUiQe6g6xvobkge_2rSQXcnOgvzkH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709050162507-vit02511gtjj4d8v1ds3p6mll941nakg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
